@@ -1,0 +1,1 @@
+Hello ! My Name is Jonatan Kwiatkowski and i'm an aspiring front end developer. I want to start my journey and challenge myself with 50 HTML/CSS/JS Projects that i'll be uploading 50 days in a row. Thanks for reading ! ;)
